@@ -1,0 +1,24 @@
+@media(max-width: 768px){
+    .advice-box{
+        height: 310px;
+        width: 340px;
+    }
+    
+    .advice .number{
+        font-size: 10px;
+    }
+
+    .advice .content{
+        font-size: 24px;
+        width: 300px;
+    }
+
+    .advice-box #divider{
+        position: absolute;
+        margin-top: 65%;
+    }
+
+    .advice-box #advice-generator{
+        margin-top: 92%;
+    }
+}
