@@ -13,11 +13,6 @@
         width: 300px;
     }
 
-    .advice-box #divider{
-        position: absolute;
-        margin-top: 65%;
-    }
-
     .advice-box #advice-generator{
         margin-top: 92%;
     }

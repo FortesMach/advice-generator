@@ -13,6 +13,7 @@
 }
 
 .container,
+.advice,
 .advice-box {
     justify-content: center;
     align-items: center;
@@ -34,9 +35,8 @@
 }
 
 .advice-box .advice {
-    margin-top: 40px;
     height: 100%;
-    gap: 20px;
+    gap: 15px;
     flex-direction: column;
 }
 
@@ -51,11 +51,6 @@
     width: 450px;
     font-size: 28px;
     color: var(--text-color);
-}
-
-.advice-box #divider{
-    position: absolute;
-    margin-top: 45%;
 }
 
 .advice-box #advice-generator {
